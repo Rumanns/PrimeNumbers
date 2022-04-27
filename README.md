@@ -1,6 +1,3 @@
-# Finding Prime numbers!
+# Encontrando números primos
 
-- This design finds all prime numbers in a given range of numbers.
-
-_But with a few changes, it can provide any of primes that your PC's memory supports_
-
+- É um programa relativamente simples, que consiste em encontrar números primos através da divisão de cada número ímpar por cada número a partir de 3.
